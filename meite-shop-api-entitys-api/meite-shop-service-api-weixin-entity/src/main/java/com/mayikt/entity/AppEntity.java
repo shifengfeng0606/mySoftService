@@ -9,7 +9,7 @@ public class AppEntity {
 	
 	private String appId;
 	
-	
+	//app姓名
 	private String appName;
 
 
